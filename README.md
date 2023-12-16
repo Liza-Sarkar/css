@@ -28,7 +28,7 @@
 
 > :warning: **The documentation of this repo is not maintained anymore**. Please raise any documentation-specific pull requests in [primer.style/design](https://github.com/primer/design/) 
 
-Our documentation site lives at [primer.style/css](https://primer.style/css). You'll be able to find detailed documentation on getting started, all of the components, our theme, our principles, and more.
+Our documentation site lives at [primer.style/css](https://primer.style/css). You'll be able to find detailed documentation on getting started, all of the components, our theme, our principles, and many more.
 
 ## Install
 This repository is distributed with [npm]. After [installing npm][install-npm], you can install `@primer/css` with this command:
